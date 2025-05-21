@@ -1,0 +1,33 @@
+{
+  "joueurs": [
+    {
+      "id": "1",
+      "name": "Bechir Ben Hamida",
+      "poste": "gardien",
+      "poids": "73",
+      "nbreCartonsJaunes": "2"
+    },
+    {
+      "id": "2",
+      "name": "Mohamed Ali Ben Romdhane",
+      "poste": "milieu",
+      "poids": "70",
+      "nbreCartonsJaunes": "1"
+    },
+    {
+      "id": "3",
+      "name": "Youssef Msakni",
+      "poste": "attaquant",
+      "poids": "75",
+      "nbreCartonsJaunes": "0"
+    },
+    {
+      "id": "d820",
+      "name": "baha",
+      "poste": "gardien",
+      "poids": "75",
+      "nbreCartonsJaunes": "2",
+      "img": "placeholder.jpg"
+    }
+  ]
+}
